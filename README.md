@@ -11,3 +11,4 @@ Personal repository of the class Fall 2023.
 | Homework 06 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/math689_computational_learning_and_discovery/blob/main/assignments/hw06.ipynb) |
 | Midterm | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/math689_computational_learning_and_discovery/blob/main/assignments/midterm.ipynb) |
 | Homework 07 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/math689_computational_learning_and_discovery/blob/main/assignments/hw07.ipynb) |
+| Final | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/math689_computational_learning_and_discovery/blob/main/assignments/final.ipynb) |
